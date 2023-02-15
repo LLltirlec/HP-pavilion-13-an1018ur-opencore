@@ -10,7 +10,7 @@
  | CPU           | `Intel Core i5-1035G1`          |
  | IGPU          | `Intel UHD Graphics G1`         |
  | RAM           | `8 GB DDR4 SDRAM`               |
- | OC ver.       | `0.8.8`                         |
+ | OC ver.       | `0.8.9`                         |
 
  ### Works
  - [x] Intel Integrated Graphics (IGPU)
