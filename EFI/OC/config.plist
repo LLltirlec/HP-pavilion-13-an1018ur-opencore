@@ -1667,7 +1667,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>igfxonln=1 igfxonln=1 -igfxblr -igfxcdc -igfxdvmt vps2_debug vps2_debug=1 alcid=13</string>
+				<string>-noDC9 igfxonln=1 igfxonln=1 -igfxblr -igfxcdc -igfxdvmt vps2_debug vps2_debug=1 alcid=13</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
