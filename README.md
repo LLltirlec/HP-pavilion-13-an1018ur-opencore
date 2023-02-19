@@ -33,3 +33,8 @@
 
  ### Doesn't work & Bugs
  - Synaptics touchpad twitches
+ 
+ ###Terminal
+ sudo pmset -a hibernatemode 3
+ sudo trimforce enable
+ 
