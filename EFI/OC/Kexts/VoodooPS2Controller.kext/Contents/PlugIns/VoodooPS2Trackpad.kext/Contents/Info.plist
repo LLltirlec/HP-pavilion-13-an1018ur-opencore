@@ -92,7 +92,7 @@
 					<key>ForceTouchCustomUpThreshold</key>
 					<string>20</string>
 					<key>ForceTouchMode</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>ForceTouchPressureThreshold</key>
 					<integer>100</integer>
 					<key>ProcessBluetoothMouseStopsTrackpad</key>
@@ -324,10 +324,32 @@
 			<dict>
 				<key>Default</key>
 				<dict>
+					<key>FingerZ</key>
+					<integer>47</integer>
+					<key>HWResetOnStart</key>
+					<true/>
+					<key>PalmNoAction When Typing</key>
+					<true/>
 					<key>DisableDevice</key>
 					<false/>
 					<key>DisableLEDUpdating</key>
 					<false/>
+					<key>MouseMultiplierX</key>
+					<integer>8</integer>
+					<key>MouseMultiplierY</key>
+					<integer>8</integer>
+					<key>MouseDivisorX</key>
+					<integer>1</integer>
+					<key>MouseDivisorY</key>
+					<integer>1</integer>
+					<key>TrackpointScrollXMultiplier</key>
+					<integer>2</integer>
+					<key>TrackpointScrollYMultiplier</key>
+					<integer>2</integer>
+					<key>TrackpointScrollXDivisor</key>
+					<integer>1</integer>
+					<key>TrackpointScrollYDivisor</key>
+					<integer>1</integer>
 					<key>ForceTouchCustomDownThreshold</key>
 					<integer>90</integer>
 					<key>ForceTouchCustomPower</key>
@@ -347,7 +369,7 @@
 					<key>TrackpointDeadzone</key>
 					<integer>1</integer>
 					<key>USBMouseStopsTrackpad</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>WakeDelay</key>
 					<integer>1000</integer>
 				</dict>
