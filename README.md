@@ -9,8 +9,11 @@
  | Laptop        | `HP Pavilion laptop 13-an1018ur`|
  | CPU           | `Intel Core i5-1035G1`          |
  | IGPU          | `Intel UHD Graphics G1`         |
+ | WiFi+BT       | `Fenvi BCM94360NG`              |
+ | SSD.          | `Intel 670p 512gb`              |
  | RAM           | `8 GB DDR4 SDRAM`               |
  | OC ver.       | `0.8.9`                         |
+ | MacOC ver.    | `13.2 Ventura`                  |
 
  ### Works
  - [x] Intel Integrated Graphics (IGPU)
@@ -20,11 +23,13 @@
  - [x] Speakers
  - [x] Integrated Microphone (you can talk to Siri)
  - [x] Apple Services (iCloud, Apple Music, Apple TV ...)
+ - [x] Airdrop & Handoff
+ - [x] WiFi & Bluetooth
  - [x] SD Card Reader
  - [x] TouchPad with Advanced Gestures
  - [x] Battery percentage
  - [x] Sleep
+ - [x] Trim
 
- ### Doesn't work
- - [ ] Airdrop & Handoff (haven't tested)
- - [ ] Bluetooth (haven't tested)
+ ### Doesn't work & Bugs
+ - Synaptics touchpad twitches
