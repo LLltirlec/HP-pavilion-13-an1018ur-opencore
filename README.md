@@ -38,3 +38,16 @@
   - sudo pmset -a hibernatemode 3
   - sudo trimforce enable
  
+ ### Sleep
+
+Remember that you are recommended to apply these settings once you booted macOS:
+
+```
+sudo pmset autopoweroff 0
+sudo pmset powernap 0
+sudo pmset standby 0
+sudo pmset proximitywake 0
+sudo pmset tcpkeepalive 0
+```
+You can keep `tcpkeepalive` on, but you might experience a litte bit more discharge than usual when putting your laptop to sleep overnight (7-8% instead of 3-5%) but you have the possibility to recieve notifications/updates every 2 hours since the laptop will wake to check them if `tcpkeepalive` is set to `1`
+ 
