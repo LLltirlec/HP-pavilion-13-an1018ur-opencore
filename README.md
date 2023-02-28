@@ -33,6 +33,7 @@
 
  ### Doesn't work & Bugs
  - Synaptics touchpad twitches
+ - Blackscreen after sleep with plugged in AC adapter 
  
  ### Terminal
   - sudo pmset -a hibernatemode 3
