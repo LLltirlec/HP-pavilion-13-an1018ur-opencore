@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>21G320</string>
+	<string>21G419</string>
 	<key>CFBundleExecutable</key>
 	<string>VoodooPS2Trackpad</string>
 	<key>CFBundleGetInfoString</key>
-	<string>2.3.3, Copyright Apple Computer, Inc. 2002-2003, mackerintel 2008, RehabMan 2012-2013</string>
+	<string>2.3.4, Copyright Apple Computer, Inc. 2002-2003, mackerintel 2008, RehabMan 2012-2013</string>
 	<key>CFBundleIdentifier</key>
 	<string>as.acidanthera.voodoo.driver.PS2Trackpad</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.3.3</string>
+	<string>2.3.4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.3.3</string>
+	<string>2.3.4</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -92,7 +92,7 @@
 					<key>ForceTouchCustomUpThreshold</key>
 					<string>20</string>
 					<key>ForceTouchMode</key>
-					<integer>1</integer>
+					<integer>0</integer>
 					<key>ForceTouchPressureThreshold</key>
 					<integer>100</integer>
 					<key>ProcessBluetoothMouseStopsTrackpad</key>
@@ -324,32 +324,10 @@
 			<dict>
 				<key>Default</key>
 				<dict>
-					<key>FingerZ</key>
-					<integer>47</integer>
-					<key>HWResetOnStart</key>
-					<true/>
-					<key>PalmNoAction When Typing</key>
-					<true/>
 					<key>DisableDevice</key>
 					<false/>
 					<key>DisableLEDUpdating</key>
 					<false/>
-					<key>MouseMultiplierX</key>
-					<integer>8</integer>
-					<key>MouseMultiplierY</key>
-					<integer>8</integer>
-					<key>MouseDivisorX</key>
-					<integer>1</integer>
-					<key>MouseDivisorY</key>
-					<integer>1</integer>
-					<key>TrackpointScrollXMultiplier</key>
-					<integer>2</integer>
-					<key>TrackpointScrollYMultiplier</key>
-					<integer>2</integer>
-					<key>TrackpointScrollXDivisor</key>
-					<integer>1</integer>
-					<key>TrackpointScrollYDivisor</key>
-					<integer>1</integer>
 					<key>ForceTouchCustomDownThreshold</key>
 					<integer>90</integer>
 					<key>ForceTouchCustomPower</key>
@@ -369,7 +347,7 @@
 					<key>TrackpointDeadzone</key>
 					<integer>1</integer>
 					<key>USBMouseStopsTrackpad</key>
-					<integer>1</integer>
+					<integer>0</integer>
 					<key>WakeDelay</key>
 					<integer>1000</integer>
 				</dict>
@@ -464,7 +442,7 @@
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>as.acidanthera.voodoo.driver.PS2Controller</key>
-		<string>2.3.3</string>
+		<string>2.3.4</string>
 		<key>com.apple.iokit.IOHIDFamily</key>
 		<string>1.0.0b1</string>
 		<key>com.apple.kpi.iokit</key>
