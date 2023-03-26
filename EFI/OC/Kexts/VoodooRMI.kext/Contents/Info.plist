@@ -59,7 +59,7 @@
 				<key>ForceTouchType</key>
 				<integer>1</integer>
 				<key>MinYDiffThumbDetection</key>
-				<integer>200</integer>
+				<integer>100</integer>
 				<key>PalmRejectionHeight</key>
 				<integer>60</integer>
 				<key>PalmRejectionTrackpointHeight</key>
@@ -69,7 +69,7 @@
 				<key>TrackpointDeadzone</key>
 				<integer>1</integer>
 				<key>TrackpointMultiplier</key>
-				<integer>1</integer>
+				<integer>10</integer>
 				<key>TrackpointScrollMultiplierX</key>
 				<integer>30</integer>
 				<key>TrackpointScrollMultiplierY</key>
