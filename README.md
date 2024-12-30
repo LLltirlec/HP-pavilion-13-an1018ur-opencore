@@ -13,7 +13,7 @@
  | SSD.          | `Intel 670p 512gb`              |
  | RAM           | `8 GB DDR4 SDRAM`               |
  | OC ver.       | `0.8.9`                         |
- | MacOC ver.    | `13.2 Ventura`                  |
+ | MacOC ver.    | `15.0 Sequoia`                  |
 
  ### Works
  - [x] Intel Integrated Graphics (IGPU)
