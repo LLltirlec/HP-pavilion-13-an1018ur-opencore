@@ -12,7 +12,7 @@
  | WiFi+BT       | `Fenvi BCM94360NG`              |
  | SSD.          | `Intel 670p 512gb`              |
  | RAM           | `8 GB DDR4 SDRAM`               |
- | OC ver.       | `0.8.9`                         |
+ | OC ver.       | `1.0.3`                         |
  | MacOC ver.    | `15.0 Sequoia`                  |
 
  ### Works
