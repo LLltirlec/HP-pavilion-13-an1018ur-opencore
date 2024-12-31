@@ -1,5 +1,5 @@
 # HP-pavilion-13-an1018ur-opencore
- Opencore for HP Pavilion 13-an1018ur
+ Opencore for HP Pavilion 13-an1018ur + Working driver for bcm94360ng (Driver.zip) that does not cause blue screen of death or hang.
 
 ![Снимок экрана 2023-02-15 в 02 35 14](https://user-images.githubusercontent.com/19612593/218887324-dfb17819-37a3-417c-9d6f-cc14cd797aa9.png)
 
